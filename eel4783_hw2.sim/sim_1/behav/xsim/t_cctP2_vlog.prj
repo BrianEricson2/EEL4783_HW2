@@ -1,7 +1,7 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
-"../../../../eel4783_hw2.srcs/sources_1/new/Combo_str.v" \
-"../../../../eel4783_hw2.srcs/sim_1/new/t_Combo_str.v" \
+"../../../../eel4783_hw2.srcs/sources_1/new/cctP2.v" \
+"../../../../eel4783_hw2.srcs/sim_1/new/t_cctP2.v" \
 
 # compile glbl module
 verilog xil_defaultlib "glbl.v"

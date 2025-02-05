@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="t_Combo_str_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="t_Combo_str" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="314.401 ns"></ZoomEndTime>
+      <Cursor1Time time="0.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="123"></NameColumnWidth>
+      <ValueColumnWidth column_width="112"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/t_Combo_str/T_I" type="array">
+      <obj_property name="ElementShortName">T_I[3:0]</obj_property>
+      <obj_property name="ObjectShortName">T_I[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_Combo_str/T_Y" type="logic">
+      <obj_property name="ElementShortName">T_Y</obj_property>
+      <obj_property name="ObjectShortName">T_Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_Combo_str/T_A" type="logic">
+      <obj_property name="ElementShortName">T_A</obj_property>
+      <obj_property name="ObjectShortName">T_A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_Combo_str/T_B" type="logic">
+      <obj_property name="ElementShortName">T_B</obj_property>
+      <obj_property name="ObjectShortName">T_B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_Combo_str/T_C" type="logic">
+      <obj_property name="ElementShortName">T_C</obj_property>
+      <obj_property name="ObjectShortName">T_C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_Combo_str/T_D" type="logic">
+      <obj_property name="ElementShortName">T_D</obj_property>
+      <obj_property name="ObjectShortName">T_D</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_Combo_str/err_cnt" type="array">
+      <obj_property name="ElementShortName">err_cnt[3:0]</obj_property>
+      <obj_property name="ObjectShortName">err_cnt[3:0]</obj_property>
+   </wvobject>
+</wave_config>
